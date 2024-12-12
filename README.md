@@ -20,7 +20,7 @@ This repository contains the code for a simple Telegram bot that integrates with
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/telegram-ollama-bot.git
+   git clone https://github.com/AsbDaryaee/telegram-ollama-bot.git
    cd telegram-ollama-bot
    ```
 
@@ -28,6 +28,10 @@ This repository contains the code for a simple Telegram bot that integrates with
 
    ```bash
    npm install
+   ```
+   OR
+      ```bash
+   pnpm i
    ```
 
 3. Create a `.env` file in the root directory and add the following environment variables:
@@ -41,7 +45,7 @@ This repository contains the code for a simple Telegram bot that integrates with
 4. Run the bot:
 
    ```bash
-   node index.js
+   node server.js
    ```
 
    The bot will start polling Telegram for messages.
@@ -101,4 +105,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 - [Telegram Bot API](https://core.telegram.org/bots/api)
 - [Ollama API](https://ollama.ai)
-
