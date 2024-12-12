@@ -51,6 +51,9 @@ This repository contains the code for a simple Telegram bot that integrates with
    The bot will start polling Telegram for messages.
 
 ## Usage
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b406637a-fc64-4912-a627-23c908d36c02" alt="Starting The Bot Looks Like This."/>
+</p>
 
 1. Start the bot by sending the `/start` command in the Telegram chat.
 2. Send your questions or prompts to the bot.
