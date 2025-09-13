@@ -58,27 +58,6 @@ ollama serve
 npm start
 ```
 
-## Project Structure
-
-telegram-ollama-bot/
-├── index.js # Main entry point
-├── config/
-│ └── config.js # Configuration settings
-├── data/
-│ └── dataManager.js # Data persistence and management
-├── handlers/
-│ ├── messageHandler.js # Text message processing
-│ └── callbackHandler.js # Callback query handling
-├── keyboards/
-│ └── keyboards.js # Inline keyboard generation
-├── utils/
-│ └── helpers.js # Utility functions
-├── bot_data/
-│ ├── conversations.json # Conversation history storage
-│ └── system_prompts.json # AI personas and settings
-├── package.json
-└── README.md
-
 ## Usage
 
 ### Basic Commands
