@@ -23,7 +23,7 @@ A sophisticated Telegram bot that seamlessly integrates with Ollama API to provi
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AsbDaryaee/Ollama-Telegram-Bot.git
 cd telegram-ollama-bot
 ```
 
