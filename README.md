@@ -150,21 +150,13 @@ The bot includes comprehensive error handling for:
 - **Data Corruption**: Automatic recovery and backup creation
 - **Network Issues**: Graceful degradation and user feedback
 
-## Dependencies
-
-```json
-{
-  "node-telegram-bot-api": "^0.64.0",
-  "axios": "^1.6.0"
-}
-```
 
 ## Development
 
 ### Running in Development Mode
 
 ```bash
-npm run dev
+node ./index.js
 ```
 
 ### Code Structure Guidelines
